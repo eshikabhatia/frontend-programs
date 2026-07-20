@@ -1,0 +1,28 @@
+body{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#number{
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+    border-radius: 20px;
+    text-align: center;
+}
+input{
+    border-radius: 5px;
+    height: 20px;
+}
+
+button{
+    border-radius: 5px; 
+}
+.fail{
+    background-color: red;
+}
+.pass{
+    background-color: green;
+}
